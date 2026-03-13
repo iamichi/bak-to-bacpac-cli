@@ -1,0 +1,16 @@
+.DS_Store
+.idea/
+.vscode/
+bin/
+obj/
+out/
+tmp/
+.tmp/
+.env
+*.bacpac
+*.bak
+*.dacpac
+*.log
+artifacts/
+state/
+
